@@ -20,7 +20,7 @@
 ## Desert
 
 * Desert
-* Teracotta Canyon (Badlands)
+* Teracotta Canyon (Badlands/Mesa)
 
 ## Arctic
 
